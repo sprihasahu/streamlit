@@ -18,4 +18,4 @@ st.code(
     ''', language='python'
 )
 st.text('I am Spriha', help='https://github.com/sprihasahu')
-t1
+st.write("Hello :wave:")
